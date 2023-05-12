@@ -1,0 +1,13 @@
+<paste log output from Kubernetes-mediated prediction, here>
+$ ./run_kubernetes.sh
+nguyenanhduy032/project4:latest
+Error from server (AlreadyExists): pods "predict" already exists
+NAME         READY   STATUS    RESTARTS   AGE
+dsadsa-app   1/1     Running   0          33s
+predict      1/1     Running   0          10s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
