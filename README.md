@@ -1,4 +1,4 @@
-![success to run workflow on CircleCI](./success.png)
+[![CircleCI](https://circleci.com/gh/nganhduy/udafury-project4.svg?style=svg)](https://app.circleci.com/pipelines/github/nganhduy/udafury-project4?branch=master)
 # Project Summary
 <b>In this project, I </b> <br>
 Learnt how to create a Makefile file, Makefile file helps me to do a lot of command in one command automatically. <br>
